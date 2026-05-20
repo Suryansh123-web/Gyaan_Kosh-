@@ -173,3 +173,10 @@ The backend operates on a base URL configuration (default: `http://127.0.0.1:500
    npm run dev
    ```
 4. Click the link in the terminal (usually `http://localhost:5173`) to launch Gyaan Kosh in your browser!
+
+
+
+#Screenshots
+<img width="1365" height="680" alt="Screenshot 2026-05-20 150417" src="https://github.com/user-attachments/assets/b7a5f4be-b327-4568-8ad1-59ab596423f9" />
+<img width="1365" height="681" alt="Screenshot 2026-05-20 150349" src="https://github.com/user-attachments/assets/f17e556b-69bf-49bd-ad55-212821b38387" />
+
