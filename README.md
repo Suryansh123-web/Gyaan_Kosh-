@@ -1,4 +1,4 @@
-# 📘 Gyaan Kosh — Private AI-Powered RAG Study Assistant
+#  Gyaan Kosh — Private AI-Powered RAG Study Assistant
 
 **Gyaan Kosh** (ज्ञान कोष — meaning *Knowledge Repository* in Sanskrit) is an advanced, production-grade, private AI study assistant. It allows users to upload local files (PDFs, DOCX books, TXT logs, and Excel spreadsheets), chunk and index them into a Vector Database, and execute semantic **RAG (Retrieval-Augmented Generation)** searches entirely locally using Ollama and Mistral.
 
@@ -6,19 +6,19 @@ The platform is designed with a premium, Vercel-like **glassmorphic dark AI aest
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-* **🌌 Cosmic AI SaaS Aesthetics:** Eye-watering landing pages, moving glowing gradient grids, glassmorphism boundaries, and smooth Framer Motion spring transitions.
-* **🔒 100% Data Privacy:** Powered by local LLMs via Ollama. None of your academic papers, textbooks, or personal notes ever leave your machine.
-* **⚡ Multi-Format Document Sandbox:** Ingests textbooks, manuals, notes, and tables with full support for `.pdf`, `.docx`, `.txt`, and `.xlsx`.
-* **📁 Scoped Context Querying:** Check and uncheck specific files in the sidebar to scope vector searches down to selected documents (similar to Google NotebookLM).
-* **💡 Semantic Accordions:** Renders exact retrieved text fragments used to answer the question, supporting copy-to-clipboard actions.
-* **📈 Bulk Seeding:** Populates vector libraries instantly in one click by loading files placed inside the server's local `knowledge_base` folder.
-* **🩺 Infrastructure Health Badges:** Real-time health monitors periodically check Flask API connectivity, local Ollama states, and vector DB volume.
+* ** Cosmic AI SaaS Aesthetics:** Eye-watering landing pages, moving glowing gradient grids, glassmorphism boundaries, and smooth Framer Motion spring transitions.
+* ** 100% Data Privacy:** Powered by local LLMs via Ollama. None of your academic papers, textbooks, or personal notes ever leave your machine.
+* ** Multi-Format Document Sandbox:** Ingests textbooks, manuals, notes, and tables with full support for `.pdf`, `.docx`, `.txt`, and `.xlsx`.
+* ** Scoped Context Querying:** Check and uncheck specific files in the sidebar to scope vector searches down to selected documents (similar to Google NotebookLM).
+* ** Semantic Accordions:** Renders exact retrieved text fragments used to answer the question, supporting copy-to-clipboard actions.
+* ** Bulk Seeding:** Populates vector libraries instantly in one click by loading files placed inside the server's local `knowledge_base` folder.
+* ** Infrastructure Health Badges:** Real-time health monitors periodically check Flask API connectivity, local Ollama states, and vector DB volume.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -39,7 +39,7 @@ graph TD
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend Architecture
 * **Core:** React 18 (Hooks) + Vite 5 (SPA Bundler)
@@ -114,7 +114,7 @@ The backend operates on a base URL configuration (default: `http://127.0.0.1:500
 
 ---
 
-## ⚡ Setup & Launch Instructions
+##  Setup & Launch Instructions
 
 ### Prerequisites
 1. **NodeJS** (v18 or higher)
